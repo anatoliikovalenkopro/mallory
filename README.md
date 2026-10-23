@@ -2,6 +2,8 @@
 
 Clean, responsive static site. Plain **HTML + CSS + JS** — no build step, no framework.
 
+https://anatoliikovalenkopro.github.io/mallory/
+
 ## Files
 
 ```
